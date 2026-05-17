@@ -1,4 +1,5 @@
 # program-to-read-workers-from-a-file-and-make-changes
+
 The program reads existing worker data from file into ArrayList, then provides a menu with options to 
 display workers, add anew worker, delete an existing worker, or exit the program.
 Each worker has attributes such as ID, name, city, hours worked, and hourly rate. The program 
